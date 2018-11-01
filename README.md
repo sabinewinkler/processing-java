@@ -1,4 +1,4 @@
-## processing-playground
+## processing-java
 
 This is a simple Java development project setup for using 
 [Processing 3](https://processing.org/ "Processing's Homepage") directly from your IDE.
